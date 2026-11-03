@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Tor.png" width="100%" alt="Tor Dark Web Cloud Security">
+  <img src="./Tor.jpeg" width="100%" alt="Tor Dark Web Cloud Security">
 </p>
 
 <h1 align="center">Tor, Dark Web & Cloud Security | Capacitación</h1>
